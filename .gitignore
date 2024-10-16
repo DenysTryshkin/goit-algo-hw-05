@@ -43,14 +43,6 @@ venv/
 *.swp
 *.swo
 
-# Ігноруємо зображення та медіа
-# Ignore images and media
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.svg
-
 # Виконувані файли
 # Executable files
 *.exe
